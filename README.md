@@ -41,7 +41,7 @@ ZenTrate_ultra_light is based on ZenTrate.js but is strongly reduced in customiz
 **Still Customizable:**
 - Items (flexible amount) with their belonging URL schemes
 - Font and font size
-- Colours (background, Font)
+- Colours (background, font)
 - if needed: spacing
 
 
