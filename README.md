@@ -44,7 +44,7 @@ ZenTrate_ultra_light is based on ZenTrate.js but is strongly reduced in customiz
 - Colours (background, Font)
 - if needed: spacing
 
-
+![screenshot](https://github.com/OGentner/scriptables/blob/main/Screenshot_Scriptable_Widget.PNG?raw=true)
 
 ### ZenLendar.js
 
